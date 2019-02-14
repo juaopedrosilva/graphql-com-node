@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  }
+}
